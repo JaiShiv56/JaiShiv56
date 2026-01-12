@@ -3,6 +3,12 @@
 <h3 align="center">A frontend developer from India</h3>
 
 
+<p align="center">
+  Building clean, responsive, and performance-focused web interfaces using React & modern frontend tools
+</p>
+
+
+
 
 - 🔭 Working on **real-world frontend and full-stack projects focused on performance and clean UI**
 
