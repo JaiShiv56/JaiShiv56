@@ -2,16 +2,13 @@
 <h1 align="center">Hi 👋, I'm Jai Shiv Tomar</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaishiv56&label=Profile%20views&color=0e75b6&style=flat" alt="jaishiv56" /> </p> -->
 
 
-- 🔭 I’m currently working on **
+- 🔭 Working on **real-world frontend and full-stack projects focused on performance and clean UI**
 
-- 🌱 I’m currently learning ****React, FastAPI, SQLAlchemy, Tailwind CSS, AI Projects****
+- 🌱 Learning **React.js (advanced concepts), FastAPI backend development, SQLAlchemy, and Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **AI/ML-based Fake News Detection Project**
-
-- 🤝 I’m looking for help with ***React Portfolio Website with Advanced Animations**
+- 👯 Open to collaborating on **frontend / full-stack web applications**
 
 - 👨‍💻 All of my projects are available at [https://jaishiv56.github.io/Portfolio-Website/](https://jaishiv56.github.io/Portfolio-Website/)
 
